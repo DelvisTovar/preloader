@@ -1,0 +1,2 @@
+# preloader
+prealoader only movil
