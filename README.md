@@ -1,2 +1,2 @@
-# text_simple
-Display demo content text simple.
+# Preloader
+Display preloadert simple.
