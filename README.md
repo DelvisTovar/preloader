@@ -1,2 +1,2 @@
 # Preloader
-Display preloadert simple.
+Display preloader simple.
